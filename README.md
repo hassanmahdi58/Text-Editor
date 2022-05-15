@@ -52,19 +52,3 @@ THEN I should have proper build scripts for a webpack application
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
-
-![Demonstration of the finished Unit 19 Homework being used in the browser and then installed.](./Assets/00-demo.gif)
-
-The following image shows the application's `manifest.json` file:
-
-![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/01-manifest.png)
-
-The following image shows the application's registered service worker:
-
-![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/02-service-worker.png)
-
-The following image shows the application's IndexedDB storage:
-
-![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
-
