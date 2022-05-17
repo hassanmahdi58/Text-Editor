@@ -51,4 +51,6 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Mock-Up
+![Screenshot (129)](https://user-images.githubusercontent.com/94930434/168863174-86262962-6990-48dd-8ffb-e9349d2026e7.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/94930434/168863197-93a4009c-6ad4-402d-b91a-6b0fcbb2e2ce.png)
 
